@@ -1,5 +1,5 @@
 # About Me
-Hi im SilverWolf, you can call me Wolfie, im 19 y.o and currently studying Computer Science in Binus University.
+Hi im SilverWolf, you can call me Wolfie, im 19 y.o.
 I'm currently improving my Frontend skills and want to start touching on Backend programming too. 
 
 ## Languages im familiar with :
