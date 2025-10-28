@@ -16,3 +16,4 @@ My goal is always to be one day be as good as her.
 
 ## Projects that i have made
 [Fuchsia Strinova themed To-do-list/calendar](https://github.com/SilverWolfiee/Fuchsia-Todo-list)
+[Evernight Minigame Discord Bot](https://github.com/SilverWolfiee/evernight-bot/tree/master)
