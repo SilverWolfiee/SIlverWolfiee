@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hi im SilverWolf, you can call me Wolfie, im 19 y.o. I'm currently improving my Frontend skills and want to start touching on Backend programming too.
+Hi im SilverWolf, you can call me Wolfie, im 19 y.o. I'm currently on the road to become a full stack developer.
 
-
+I'm currently using [ElysiaJS](https://github.com/elysiajs/elysia) as my backend server framework with Bun as the runtime.
+For front end i am learning How to use react at the moment
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c6ht) 
