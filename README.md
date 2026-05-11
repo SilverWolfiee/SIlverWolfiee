@@ -1,5 +1,5 @@
 # About Me:
-No
+A 20 y.o person who loves March7th and Evernight a lot and likes to code stupid projects in her sparetime.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c6ht) 
