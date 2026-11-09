@@ -11,3 +11,4 @@ A 20 y.o person who loves March7th and Evernight a lot and likes to code stupid 
 ![](https://nirzak-streak-stats.vercel.app/?user=SilverWolfiee&theme=dark&hide_border=false)<br/>
 
 
+This github account is slightly inactive now as i mainly do my work on a private gitlab instance
